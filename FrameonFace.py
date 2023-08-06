@@ -1,5 +1,8 @@
+# attach a sunglass to another photo!
+
+
+
 from PIL import Image
-import os
 
 def paste_sunglasses(photo_path, sunglasses_path, output_path):
 
